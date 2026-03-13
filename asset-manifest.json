@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kathak-fundamentals-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/kathak-fundamentals-tracker/static/js/main.7402081d.js",
+    "static/js/453.f94fb6fb.chunk.js": "/kathak-fundamentals-tracker/static/js/453.f94fb6fb.chunk.js",
+    "index.html": "/kathak-fundamentals-tracker/index.html",
+    "main.e6c13ad2.css.map": "/kathak-fundamentals-tracker/static/css/main.e6c13ad2.css.map",
+    "main.7402081d.js.map": "/kathak-fundamentals-tracker/static/js/main.7402081d.js.map",
+    "453.f94fb6fb.chunk.js.map": "/kathak-fundamentals-tracker/static/js/453.f94fb6fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7402081d.js"
+  ]
+}
